@@ -1,4 +1,6 @@
-# 標準機能　色々
+"""
+miscellaneous 標準機能　色々
+"""
 
 # 複数のリストを同時にソートする
 def sort_lists():
